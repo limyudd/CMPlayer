@@ -1,5 +1,7 @@
 # CMPlayer
-simple player
+simple player 
+
+学习使用ffmpeg以及qt开发
 
 project create in 2020.06.05
 
